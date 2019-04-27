@@ -33,6 +33,7 @@ public class Task_0002 {
             System.out.println(1);
         }
 
+        //-5, -4, -3...
         else{
             for (int i = 1; i >= a; i--) {
                 sum += i;
