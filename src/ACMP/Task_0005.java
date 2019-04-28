@@ -16,7 +16,6 @@ public class Task_0005 {
             arr[i] = rand;
             if (rand % 2 == 0) evenCount++;
             else oddCount++;
-            //System.out.print(arr[i] + " ");
         }
         System.out.println();
 
