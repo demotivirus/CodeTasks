@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class Task_0001 {
 
-    public static int a, b;
-    public static Scanner scn = new Scanner(System.in);
+    private static int a, b;
+    private static Scanner scn = new Scanner(System.in);
 
     public static void main(String[] args) {
 
