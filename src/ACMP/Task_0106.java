@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Task_0106 {
     private static int length;
-    private static Scanner scn = new Scanner(System.in);
+    private static Scanner scn;
 
     public static void main(String[] args) {
 
@@ -14,6 +14,7 @@ public class Task_0106 {
     }
 
     public static void input(){
+        scn = new Scanner(System.in);
         length = scn.nextInt();
     }
 
