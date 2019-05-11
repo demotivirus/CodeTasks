@@ -1,1 +1,1 @@
-# CodeTasks
+The solution of algorithmic problems from popular sites: ACMP, HackerRank, CodeForces
